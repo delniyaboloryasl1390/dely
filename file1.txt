@@ -47,3 +47,4 @@ git commit -m "added second line"
 git commit -m "added second line"
 git commit -m "added second line"
 git commit -m "added second line"s
+git commit -m "added second line"
